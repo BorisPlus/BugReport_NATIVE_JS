@@ -2,7 +2,7 @@
 
 BugReport - JS-пакет, чей функционал дает возможность отсылать уведомления пользователями сайта о наличии ошибки в тексте на сайте.
 
-<img src='README.files/img/animate/bug_report.gif' title='bug_report.gif'>
+<img src='README.files/img/animate/bug_report.gif' title='bug_report.gif' width='75%' style="border:1px;">
     
 ## Как использовать у себя
 
@@ -14,7 +14,7 @@ BugReport - JS-пакет, чей функционал дает возможно
 <script src="./bug_report.bundle.js"></script>
 ```
 
-В вашем HTML-файле создайте соотсветствующие контейнеры (Расстановка контейнеров и их CSS за вами).
+В вашем HTML-файле создайте соотсветствующие контейнеры (расстановка контейнеров и их CSS за вами).
 
 ```html
 <div id="bug_report_thanks" style="visibility:hidden">
