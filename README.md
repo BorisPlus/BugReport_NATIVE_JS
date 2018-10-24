@@ -1,9 +1,9 @@
 # BugReport 
 
 BugReport - JS-пакет, чей функционал дает возможность отсылать уведомления пользователями сайта о наличии ошибки в тексте на сайте.
-
+<center>
 <img src='README.files/img/animate/bug_report.gif' title='bug_report.gif' width='75%'  border='2'>
-    
+</center>    
 ## Как использовать у себя
 
 ### Базовый вариант
