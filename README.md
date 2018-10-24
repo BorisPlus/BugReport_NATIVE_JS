@@ -12,14 +12,14 @@ BugReport - JS-пакет, чей функционал дает возможно
 Подключите модуль перед закрывающимся тегом `</body>`. Я попозже сделаю нормального "ждуна" для этой библиотеки, но пока так.
 
 ```html
-<script src="./bug_report.bundle.js"></script>
+<script src="./bug_report.js"></script>
 ```
 
 В вашем HTML-файле создайте соотсветствующие контейнеры (расстановка контейнеров и их CSS за вами).
 
 ```html
 <div id="bug_report_thanks" style="visibility:hidden">
-        Благодарю Вас!
+    Благодарю Вас!
 </div>
 <div id="bug_report_instruction">
     Если нашли ошибку, выделите текст и нажмите на кнопку.
@@ -124,7 +124,7 @@ let my_bug_report = new BugReport(
 
 ## Авторы
 
-* **BorisPlus** - [https://github.com/BorisPlus/BugReport](https://github.com/BorisPlus/otus_webpython_018)
+* **BorisPlus** - [https://github.com/BorisPlus/BugReport](https://github.com/BorisPlus/BugReport)
 
 ## Лицензия
 
